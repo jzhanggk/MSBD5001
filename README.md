@@ -1,3 +1,3 @@
 # MSBD5001
-
-Kaggle.ipynb contains the code of kaggle.
+Kaggle.ipynb: the code of kaggle
+pred.csv: the predict result.
